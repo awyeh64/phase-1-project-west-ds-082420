@@ -83,11 +83,15 @@ Measuring the successes and barriers faced by our most vulnerable youth is a cha
 
 ![text](https://raw.githubusercontent.com/awyeh64/phase-1-project-west-ds-082420/master/reports/figures/skc_definition.png)
 
+![text](https://raw.githubusercontent.com/awyeh64/phase-1-project-west-ds-082420/master/reports/figures/skc_distribution.png)
+
 ## PROJECT GOAL
 
 The SRP would like an update on the estimated number of OY in South King County. According to a recent The Seattle Times article, the number of OY in South King County has remained steadfast at 19,000<sup>4</sup>. However, that estimation comes from a report that is over three years old. As Data Science Consultants, your task is to inform the SRP on the current status of OY in South King County using updated data.
 
+# Breakdown of Opportunity Youth Population Growth
 
+![text](https://raw.githubusercontent.com/awyeh64/phase-1-project-west-ds-082420/master/reports/figures/oy_pop_breakdown.png)
 
 # Opportunity Youth Status by Age
 
