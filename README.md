@@ -82,6 +82,8 @@ Measuring the successes and barriers faced by our most vulnerable youth is a cha
 
 ![text](https://raw.githubusercontent.com/awyeh64/phase-1-project-west-ds-082420/master/reports/figures/skc_definition.png)
 
+Above we have a map showcasing the counties in King County that we consider part of the South King County region.  Below we have a visualization that shows the distribution of opportunity youths throughout South King County, with areas with a darker color containing significantly more opportunity youths than areas with lighter colors.
+
 ![text](https://raw.githubusercontent.com/awyeh64/phase-1-project-west-ds-082420/master/reports/figures/skc_distribution.png)
 
 ## PROJECT GOAL
@@ -92,11 +94,25 @@ The SRP would like an update on the estimated number of OY in South King County.
 
 ![text](https://raw.githubusercontent.com/awyeh64/phase-1-project-west-ds-082420/master/reports/figures/oy_pop_breakdown.png)
 
+  In the leftmost column we can see that from 2017, the population of opportunity youths with a college degree and just a high-school degree have significantly increased.  An insight we can conclude from this is that youths might be able to graduate but aren't prepared for the next part of their life.
+
+  In the middle column, we can see that the main increase comes from a stagnant population of opportunity youths from age 22 to 24.  While the 16 to 18 range and 19 to 21 range have remained roughly stable, we can see that many of the opportunity youths are pooling in the 22 to 24 range and unable to escape.
+
+  In the right column, we see that the population of white ethnicity has increased significantly.  While the accuracy of this data may be questionable, a big influx of population could indeed affect job and education availability and increase the amount of opportunity youths.
+
 # Opportunity Youth Status by Age
 
 ![text](https://raw.githubusercontent.com/awyeh64/phase-1-project-west-ds-082420/master/reports/figures/oy_status_by_age_skc.png)
 
+# Our Findings
 
+What we found concerning is the number of OY in the 19 to 24 age range, not only did it increase, but remained high. Furthermore, the college experience within the same age range was really low. In the 19 to 21 age group, only 13% of individuals had any college experience. While that number did improve a little in the 22 to 24 age range, where 20% of individuals here had college experience, those with college degrees was disturbingly low.
+
+What this tells us is that high school, and secondary education in general, aren't doing a good job of placing students in colleges. There is some barrier at this level.
+
+# Recommendations
+
+Therefore we recommend looking at ways to improve secondary education. Finding where there is a disconnect, and how we can help these individuals be motivated about, and pursue, post-secondary education. In addition to that, we also recommend creating organizations that help individuals gain access to not only guidance and mentorship, but also help with researching and applying to colleges, and looking for what kind of financial aid is available to them, at both the state and federal level, and help applying for it.
 
 
 ## Citations
